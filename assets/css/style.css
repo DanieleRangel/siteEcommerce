@@ -57,3 +57,8 @@ h2 {
     color: #888;
   }
   
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    border-radius: 5rem;
+    background-color: #0000FF;
+    border: 10px solid #0000FF;
+}
